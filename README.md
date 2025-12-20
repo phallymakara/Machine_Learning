@@ -33,24 +33,6 @@ We utilize **Python** along with industry-standard libraries and environments.
 * **ML & Deep Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
 
 ---
-
-## 📅 Course Outline
-*Note: This curriculum is progressively updated.*
-
-| Topic | Status |
-| :--- | :--- |
-| **1. Python Fundamentals** | `In progress` |
-| **2. Python for Data Science** | `In progress` |
-| **3. Intro to ML & Capstone Idea** | `Upcoming` |
-| **4. Supervised Machine Learning** | `Upcoming` |
-| **5. Unsupervised Machine Learning** | `Upcoming` |
-| **6. Capstone Phase 1** | `Upcoming` |
-| **7. Capstone Phase 2** | `Upcoming` |
-| **8. API Integration & Git** | `Upcoming` |
-| **9. Capstone Phase 3: Deployment** | `Upcoming` |
-
----
-
 ## 🎓 Grading & Criteria
 | Criteria | Percentage |
 | :--- | :--- |
@@ -70,3 +52,4 @@ Recommended reading to further your understanding:
 * [Kaggle Learn](https://www.kaggle.com/learn)
 
 ---
+
