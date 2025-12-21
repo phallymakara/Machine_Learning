@@ -347,7 +347,7 @@
     "href": "source-slides/Python Fundamental.html#installing-python",
     "title": "Python Fundamentals",
     "section": "Installing Python",
-    "text": "Installing Python\nWindows\n\n\nVisit python.org/downloads\nDownload latest Python 3.x\nRun installer\nCheck “Add Python to PATH”\nClick “Install Now”"
+    "text": "Installing Python\n\n\nWindows\n\n\nVisit python.org/downloads\nDownload latest Python 3.x\nRun installer\nCheck “Add Python to PATH”\nClick “Install Now”"
   },
   {
     "objectID": "source-slides/Python Fundamental.html#python-repl",
@@ -858,7 +858,7 @@
     "href": "source-slides/Python Fundamental.html#what-is-python-used-for",
     "title": "Python Fundamentals",
     "section": "What is Python Used For?",
-    "text": "What is Python Used For?\n\nArtificial Intelligence & Machine Learning\nData Science & Analytics\nAutomation & Scripting\nWeb Development\nGame Development\nMobile App Development"
+    "text": "What is Python Used For?\n\n\n\nArtificial Intelligence & Machine Learning\nData Science & Analytics\nAutomation & Scripting\nWeb Development\nGame Development\nMobile App Development"
   },
   {
     "objectID": "source-slides/Python Fundamental.html#python-versions",
@@ -1047,7 +1047,7 @@
     "href": "source-slides/Python Fundamental.html#f-strings-formatting",
     "title": "Python Fundamentals",
     "section": "F-Strings (Formatting)",
-    "text": "F-Strings (Formatting)\nF-strings (formatted string literals) start with the letter f and let you embed expressions inside curly braces {} directly within a string.\nf-string read variables inline without concatenation and automatically convert results to text, making string formatting both faster and easier to read.\nname = \"Alice\"\nage = 25\nheight = 1.75\n\n# F-strings (Python 3.6+)\nprint(f\"Name: {name}, Age: {age}\")\n\n# With expressions\nprint(f\"{name} is {age} years old\")\nprint(f\"In 5 years: {age + 5}\")\n\n# Formatting numbers\nprint(f\"Height: {height:.2f}m\")  # 1.75m\nprint(f\"Price: ${99.5:.2f}\")     # $99.50"
+    "text": "F-Strings (Formatting)\nF-strings (formatted string literals) start with the letter f and let you embed expressions inside curly braces {} directly within a string.\nf-string read variables inline without concatenation and automatically convert results to text, making string formatting both faster and easier to read.\nExample\nname = \"Alice\"\nage = 25\nheight = 1.75\n\n# F-strings (Python 3.6+)\nprint(f\"Name: {name}, Age: {age}\")\n\n# With expressions\nprint(f\"{name} is {age} years old\")\nprint(f\"In 5 years: {age + 5}\")\n\n# Formatting numbers\nprint(f\"Height: {height:.2f}m\")  # 1.75m\nprint(f\"Price: ${99.5:.2f}\")     # $99.50"
   },
   {
     "objectID": "source-slides/Python Fundamental.html#basic-text-processing",
@@ -1348,7 +1348,7 @@
     "href": "source-slides/Python Fundamental.html#installing-python-cont.",
     "title": "Python Fundamentals",
     "section": "Installing Python (cont.)",
-    "text": "Installing Python (cont.)\nmacOS\n\n\nVisit python.org/downloads\nDownload for macOS\nRun .pkg installer\nFollow installation wizard"
+    "text": "Installing Python (cont.)\n\n\nmacOS\n\n\nVisit python.org/downloads\nDownload for macOS\nRun .pkg installer\nFollow installation wizard"
   },
   {
     "objectID": "source-slides/Python Fundamental.html#installing-python-cont.-1",
@@ -1565,28 +1565,28 @@
     "href": "source-slides/Python Fundamental.html#function-1",
     "title": "Python Fundamentals",
     "section": "Function",
-    "text": "Function\nParameters & Return Values\n\nParameters allow you to pass data into functions\nreturn values send data back to the caller.\n\nThink of parameters as inputs and return values as outputs.\n# Function with return\ndef add(a, b):\n    return a + b\n\nresult = add(5, 3)  # result = 8\n\n# Multiple returns\ndef get_min_max(numbers):\n    return min(numbers), max(numbers)\n\nminimum, maximum = get_min_max([1, 5, 3, 9, 2])"
+    "text": "Function\nParameters & Return Values\n\nParameters allow you to pass data into functions\nreturn values send data back to the caller.\n\nThink of parameters as inputs and return values as outputs.\nExample\n# Function with return\ndef add(a, b):\n    return a + b\n\nresult = add(5, 3)  # result = 8\n\n# Multiple returns\ndef get_min_max(numbers):\n    return min(numbers), max(numbers)\n\nminimum, maximum = get_min_max([1, 5, 3, 9, 2])"
   },
   {
     "objectID": "source-slides/Python Fundamental.html#function-2",
     "href": "source-slides/Python Fundamental.html#function-2",
     "title": "Python Fundamentals",
     "section": "Function",
-    "text": "Function\nDefault Parameters\nDefault parameters provide fallback values when arguments aren’t supplied.\nDefault parameters makes functions more flexible and reduces the need for multiple similar functions.\ndef greet(name, greeting=\"Hello\"):\n    return f\"{greeting}, {name}!\"\n\n# Using default\ngreet(\"Vinick\")              # \"Hello,Vinick \"\n\n# Overriding default\ngreet(\"Yuttey\", \"Hi\")          # \"Hi, Yuttey!\"\ngreet(\"Meyshang\", greeting=\"Hey\")  # \"Hey, Meyshang!\""
+    "text": "Function\nDefault Parameters\nDefault parameters provide fallback values when arguments aren’t supplied.\nDefault parameters makes functions more flexible and reduces the need for multiple similar functions.\nExample\ndef greet(name, greeting=\"Hello\"):\n    return f\"{greeting}, {name}!\"\n\n# Using default\ngreet(\"Vinick\")              # \"Hello,Vinick \"\n\n# Overriding default\ngreet(\"Yuttey\", \"Hi\")          # \"Hi, Yuttey!\"\ngreet(\"Meyshang\", greeting=\"Hey\")  # \"Hey, Meyshang!\""
   },
   {
     "objectID": "source-slides/Python Fundamental.html#function-3",
     "href": "source-slides/Python Fundamental.html#function-3",
     "title": "Python Fundamentals",
     "section": "Function",
-    "text": "Function\nScope - Local vs Global\nScope determines where variables can be accessed in the block of code.\n\nLocal variables exist only inside functions.\nglobal variables are accessible everywhere.\n\n# Global variable\nx = 10\n\ndef example():\n    # Local variable\n    y = 5\n    print(x)  # Can access global\n    print(y)  # Can access local\n\nexample()\nprint(y)  # ERROR: y is not defined\n\n# Modifying global\ndef modify_global():\n    global x\n    x = 20\n\nmodify_global()\nprint(x)  # 20"
+    "text": "Function\nScope - Local vs Global\nScope determines where variables can be accessed in the block of code.\n\nLocal variables exist only inside functions.\nglobal variables are accessible everywhere.\n\nExample\n# Global variable\nx = 10\n\ndef example():\n    # Local variable\n    y = 5\n    print(x)  # Can access global\n    print(y)  # Can access local\n\nexample()\nprint(y)  # ERROR: y is not defined\n\n# Modifying global\ndef modify_global():\n    global x\n    x = 20\n\nmodify_global()\nprint(x)  # 20"
   },
   {
     "objectID": "source-slides/Python Fundamental.html#function-4",
     "href": "source-slides/Python Fundamental.html#function-4",
     "title": "Python Fundamentals",
     "section": "Function",
-    "text": "Function\nLambda Functions\nLambda functions are small, anonymous functions defined in a single line.\nLamda function used for simple operations, especially with functions like map(), filter(), and sorted().\n# Regular function\ndef square(x):\n    return x ** 2\n\n# Lambda (anonymous function)\nsquare = lambda x: x ** 2\n\n# Common use with map/filter\nnumbers = [1, 2, 3, 4, 5]\nsquared = list(map(lambda x: x ** 2, numbers))\n# [1, 4, 9, 16, 25]\n\nevens = list(filter(lambda x: x % 2 == 0, numbers))\n# [2, 4]"
+    "text": "Function\nLambda Functions\nLambda functions are small, anonymous functions defined in a single line.\nLamda function used for simple operations, especially with functions like map(), filter(), and sorted().\nExample\n# Regular function\ndef square(x):\n    return x ** 2\n\n# Lambda (anonymous function)\nsquare = lambda x: x ** 2\n\n# Common use with map/filter\nnumbers = [1, 2, 3, 4, 5]\nsquared = list(map(lambda x: x ** 2, numbers))\n# [1, 4, 9, 16, 25]\n\nevens = list(filter(lambda x: x % 2 == 0, numbers))\n# [2, 4]"
   },
   {
     "objectID": "source-slides/Python Fundamental.html#questions",
