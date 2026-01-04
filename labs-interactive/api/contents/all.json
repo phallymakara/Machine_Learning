@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-01-04T01:05:03.086190Z",
+      "created": "2026-01-04T01:24:48.004876Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,7 +16,7 @@
     },
     {
       "content": null,
-      "created": "2026-01-04T01:05:03.084616Z",
+      "created": "2026-01-04T01:24:48.003138Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -30,24 +30,24 @@
     },
     {
       "content": null,
-      "created": "2026-01-04T01:05:03.085357Z",
+      "created": "2026-01-04T01:24:48.003824Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-01-04T01:01:42.853620Z",
+      "last_modified": "2026-01-04T01:24:14.218540Z",
       "mimetype": null,
       "name": "PT01-Python-Fundamentals.ipynb",
       "path": "PT01-Python-Fundamentals.ipynb",
-      "size": 20718,
+      "size": 20686,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2026-01-04T01:05:03.085597Z",
+  "created": "2026-01-04T01:24:48.004258Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-01-04T01:05:03.085597Z",
+  "last_modified": "2026-01-04T01:24:48.004258Z",
   "mimetype": null,
   "name": "",
   "path": "",
