@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-01-04T01:24:48.004876Z",
+      "created": "2026-01-06T15:16:25.425656Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,11 +16,11 @@
     },
     {
       "content": null,
-      "created": "2026-01-04T01:24:48.003138Z",
+      "created": "2026-01-07T04:43:07.805693Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2025-12-21T10:59:12.322892Z",
+      "last_modified": "2026-01-07T04:43:07.805693Z",
       "mimetype": "text/html",
       "name": "PT01-Python-Fundamentals.html",
       "path": "PT01-Python-Fundamentals.html",
@@ -30,7 +30,7 @@
     },
     {
       "content": null,
-      "created": "2026-01-04T01:24:48.003824Z",
+      "created": "2026-01-06T15:16:25.424899Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -41,13 +41,27 @@
       "size": 20686,
       "type": "notebook",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-01-09T11:04:35.648862Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-01-09T11:04:19.801051Z",
+      "mimetype": null,
+      "name": "PT02-Python for Data Science.ipynb",
+      "path": "PT02-Python for Data Science.ipynb",
+      "size": 13264,
+      "type": "notebook",
+      "writable": true
     }
   ],
-  "created": "2026-01-04T01:24:48.004258Z",
+  "created": "2026-01-09T11:04:35.648034Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-01-04T01:24:48.004258Z",
+  "last_modified": "2026-01-09T11:04:35.648034Z",
   "mimetype": null,
   "name": "",
   "path": "",
