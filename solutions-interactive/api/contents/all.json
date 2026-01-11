@@ -2,7 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2026-01-06T15:07:14.848393Z",
+      "created": "2026-01-11T06:40:30.432141Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-01-11T06:39:48.117908Z",
+      "mimetype": null,
+      "name": "PT02-Python for Data Science_solutions.ipynb",
+      "path": "PT02-Python for Data Science_solutions.ipynb",
+      "size": 1356001,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-01-11T06:40:30.430657Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -15,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-01-06T15:07:14.848012Z",
+  "created": "2026-01-11T06:40:30.430820Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-01-06T15:07:14.848012Z",
+  "last_modified": "2026-01-11T06:40:30.430820Z",
   "mimetype": null,
   "name": "",
   "path": "",
