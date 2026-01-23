@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-01-06T15:16:25.425656Z",
+      "created": "2026-01-23T17:17:22.555160Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,21 +16,7 @@
     },
     {
       "content": null,
-      "created": "2026-01-07T04:43:07.805693Z",
-      "format": null,
-      "hash": null,
-      "hash_algorithm": null,
-      "last_modified": "2026-01-07T04:43:07.805693Z",
-      "mimetype": "text/html",
-      "name": "PT01-Python-Fundamentals.html",
-      "path": "PT01-Python-Fundamentals.html",
-      "size": 294382,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2026-01-06T15:16:25.424899Z",
+      "created": "2026-01-23T17:17:22.552568Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -44,7 +30,7 @@
     },
     {
       "content": null,
-      "created": "2026-01-10T16:50:19.687984Z",
+      "created": "2026-01-23T17:17:22.553317Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -55,13 +41,27 @@
       "size": 15288,
       "type": "notebook",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-01-23T17:17:22.554033Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-01-23T17:15:30.991445Z",
+      "mimetype": null,
+      "name": "PT03-Introduction_to_Machine_Learning.ipynb",
+      "path": "PT03-Introduction_to_Machine_Learning.ipynb",
+      "size": 3622,
+      "type": "notebook",
+      "writable": true
     }
   ],
-  "created": "2026-01-10T16:50:19.687094Z",
+  "created": "2026-01-23T17:17:22.554499Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-01-10T16:50:19.687094Z",
+  "last_modified": "2026-01-23T17:17:22.554499Z",
   "mimetype": null,
   "name": "",
   "path": "",
