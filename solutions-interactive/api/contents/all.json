@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-01-11T06:40:30.432141Z",
+      "created": "2026-01-25T10:06:14.888347Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,7 +16,21 @@
     },
     {
       "content": null,
-      "created": "2026-01-11T06:40:30.430657Z",
+      "created": "2026-01-25T10:06:14.893301Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-01-25T10:05:41.985800Z",
+      "mimetype": null,
+      "name": "PT03-Introduction_to_Machine_Learning_solutions.ipynb",
+      "path": "PT03-Introduction_to_Machine_Learning_solutions.ipynb",
+      "size": 1467794,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-01-25T10:06:14.886103Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -29,11 +43,11 @@
       "writable": true
     }
   ],
-  "created": "2026-01-11T06:40:30.430820Z",
+  "created": "2026-01-25T10:06:14.888589Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-01-11T06:40:30.430820Z",
+  "last_modified": "2026-01-25T10:06:14.888589Z",
   "mimetype": null,
   "name": "",
   "path": "",
