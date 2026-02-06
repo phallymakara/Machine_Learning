@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="images/instinct-logo.jpg" alt="Instinct Institute Logo" height="120" style="border-radius: 8px; margin-bottom: 10px;">
+  <img src="images/ict_center.png" alt="ICT center Logo" height="120" style="border-radius: 8px; margin-bottom: 10px;">
 </div>
 
-# Artificial Intelligence Bootcamp 
+# AI & Machine Learning
 
-**Author:** Mork Mongkul  
-**Institute:** Instinct Institute  
-**Published:** December 19, 2025
+**Author:** Phally Makara
+**Institute:** ICT Center 
+**Published:** January 29, 2025
 
 [![View Slides](https://img.shields.io/badge/View-Slides-blue?style=for-the-badge&logo=github)](https://morkmongkul.github.io/AI-Bootcamp-Instinct/)
 
